@@ -11,3 +11,19 @@ def exercicio1():
     print(f"Passou com soma de notas iguais a {soma}")
 
 # fim
+
+#inicio
+def exercicio2():
+  num_entradas = int(input("Digite o numero de entradas: "))
+  lista = []
+  #i = 0
+  #while i < num_entradas:
+    # instrucoes
+    #lista.append( input() )
+    # passo
+    #i += 1
+  for i in range(num_entradas):
+    lista.append( input() )
+  return(lista)
+#fim
+
