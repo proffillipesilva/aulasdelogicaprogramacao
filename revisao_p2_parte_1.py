@@ -60,3 +60,22 @@ def exercicio3():
   '''
 #fim
 
+#inicio
+def exercicio4(lista):
+  num_presencas = 0
+
+  #exemplo3
+  for elemento in lista:
+    if elemento == 'p':
+      num_presencas += 1
+
+# como saber se o num_presencas é maior que ausencias.
+# Se você só tem dois valores possíveis, p e f.
+#   Se o numero de p(s) for maior que 50% tenho mais p(s)
+
+  if num_presencas/len(lista) >= 0.5:
+    return("Passou")
+  else:
+    return("Bombou")
+#fim
+
