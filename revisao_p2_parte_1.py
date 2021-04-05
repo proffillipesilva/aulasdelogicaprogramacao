@@ -27,3 +27,36 @@ def exercicio2():
   return(lista)
 #fim
 
+#inicio
+def exercicio3():
+  menu = {
+    '1': "Sorvete",
+    '2': "Chocolate",
+    '3': "Torta"
+  }
+  opcao = input()  # input retorna string, ou texto
+  while opcao != '9':
+    # instrucoes
+    if opcao in menu:
+      print(menu[opcao])
+    else:
+      print("Invalido")
+    # passo
+    opcao = input()
+
+  ''' Forma alternativa: 
+  while opcao != '9':
+    # instrucoes
+    if opcao == '1':
+      print("Sorvete")
+    elif opcao == '2':
+      print("Chocolate")
+    elif opcao == '3':
+      print("Torta")
+    else:
+      print("Inválido")
+    # passo
+    opcao = input()
+  '''
+#fim
+
