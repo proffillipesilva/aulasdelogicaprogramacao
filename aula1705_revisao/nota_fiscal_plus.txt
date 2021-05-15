@@ -1,0 +1,7 @@
+arroz 	 36.0
+feijao 	 15.0
+tilapia 	 63.0
+leite 	 4.0
+frango 	 13.0
+===========
+Total 	 131.0

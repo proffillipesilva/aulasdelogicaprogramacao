@@ -1,0 +1,5 @@
+Pedro,5,6,8
+Joana,1,8,9
+Barbara,9,3,4
+Fernando,3,10,6
+Douglas,4,7,10

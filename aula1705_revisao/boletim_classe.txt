@@ -1,0 +1,7 @@
+Pedro 	 6.333333333333333
+Joana 	 6.0
+Barbara 	 5.333333333333333
+Fernando 	 6.333333333333333
+Douglas 	 7.0
+================
+Aprovados 	 4
