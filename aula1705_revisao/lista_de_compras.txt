@@ -1,0 +1,5 @@
+arroz,36
+feijao,15
+tilapia,63
+leite,4
+frango,13

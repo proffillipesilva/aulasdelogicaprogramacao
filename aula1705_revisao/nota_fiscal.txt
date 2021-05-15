@@ -1,0 +1,7 @@
+tomate 	 36.0
+tomate 	 15.0
+tomate 	 63.0
+tomate 	 4.0
+tomate 	 13.0
+====================
+Total 	 131.0
