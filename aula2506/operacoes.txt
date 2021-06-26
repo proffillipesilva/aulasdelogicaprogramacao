@@ -1,0 +1,6 @@
+234,Nicolle,Transferencia,25,Alexandre
+482,Pedro,Saque,100,
+343,Joao,Deposito,100,
+785,Luiza,Saque,50,
+888,Fernando,Transferencia,40,Alexandre
+999,Pedro,Transferencia,78,Luiza
