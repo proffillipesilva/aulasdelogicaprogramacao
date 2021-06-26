@@ -1,0 +1,25 @@
+1) Diferencie:
+a) Lista  ==> Estrutura de Dados Sequenciais  --> primeira posicao = 0, segunda_posicao: 1 ...
+b) Dicionario ==> Estrutura não sequencial, caracterizada pelo par chave-valor
+c) Classe ==> Estrutura organizada que possui atributos(o que tem) e métodos(o que faz)
+
+2) Quando devo usar classe e não dicionário? Quando devo usar dicionário e não classe?
+==> classe ao invés de dicionário: Quando os dados são definidos. Exemplo: Banco de dados
+==> dicionário ao invés de classe: Quando os dados não são previamente definidos. Exemplo: processamento de textos
+
+3) O que é encapsulamento?
+==> propriedade das classes que permite selecionar quais dados serão ou não expostos
+     no python, "privado" ==> _, "publico" => sem o _.
+
+4) O que é Herança e a sua principal utilidade em orientação à objetos?
+==> Herança é a capacidade de uma classe herdar atributos e métodos de uma outra classe
+      Sua principal utilidade é evitar a repetição de código
+
+5) Qual a diferença entre Classe e Objeto?
+==> classe é o template, isto é, "a planta"
+    objeto é a classe já carregada na memória, isto é, "a casa"
+
+  Objeto é uma classe instanciada
+
+
+
